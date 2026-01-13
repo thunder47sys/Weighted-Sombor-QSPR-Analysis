@@ -1,0 +1,37 @@
+Property,Model,R2_Score,MAE,RMSE
+Boiling Point (BP),MLR,0.7482,53.6872,72.7826
+Boiling Point (BP),Lasso,0.675,62.2743,82.4146
+Boiling Point (BP),Random Forest,0.6497,68.0342,87.9923
+Boiling Point (BP),XGBoost,0.6419,67.8917,89.3786
+Boiling Point (BP),ANN,0.1771,105.0312,134.3224
+Boiling Point (BP),SVR,0.0532,113.7198,147.1886
+Molar Volume (MV),Lasso,0.8337,30.9761,42.1115
+Molar Volume (MV),MLR,0.8332,28.3283,42.2513
+Molar Volume (MV),Random Forest,0.8001,34.8588,48.0168
+Molar Volume (MV),ANN,0.7796,37.7345,49.288
+Molar Volume (MV),XGBoost,0.7619,37.4821,52.1269
+Molar Volume (MV),SVR,0.1857,75.8385,100.2672
+Flash Point (FP),MLR,0.6801,37.8541,51.3691
+Flash Point (FP),Lasso,0.6352,40.9797,54.3601
+Flash Point (FP),Random Forest,0.5814,43.4269,59.1268
+Flash Point (FP),XGBoost,0.5227,46.3373,63.4527
+Flash Point (FP),ANN,0.5087,48.2973,63.7258
+Flash Point (FP),SVR,0.1359,66.1163,86.0457
+Polarizability (Pol),ANN,0.9229,2.6683,3.6953
+Polarizability (Pol),Lasso,0.9164,2.7041,3.7896
+Polarizability (Pol),MLR,0.902,2.5064,4.2414
+Polarizability (Pol),Random Forest,0.8829,3.5023,4.8384
+Polarizability (Pol),XGBoost,0.8717,3.5573,5.0228
+Polarizability (Pol),SVR,0.5743,6.3388,9.7741
+Molar Refractivity (MR),MLR,0.9789,3.9664,5.313
+Molar Refractivity (MR),Lasso,0.9733,4.7964,5.863
+Molar Refractivity (MR),ANN,0.9459,6.3498,8.2376
+Molar Refractivity (MR),Random Forest,0.912,8.1657,11.0178
+Molar Refractivity (MR),XGBoost,0.8939,8.3545,11.894
+Molar Refractivity (MR),SVR,0.4563,18.9786,28.0273
+Density (D),SVR,0.0217,0.1782,0.2807
+Density (D),Random Forest,-0.0076,0.1827,0.2834
+Density (D),Lasso,-0.0293,0.1962,0.2866
+Density (D),MLR,-0.1404,0.1757,0.2963
+Density (D),ANN,-0.3155,0.195,0.3145
+Density (D),XGBoost,-0.4082,0.2036,0.3211
