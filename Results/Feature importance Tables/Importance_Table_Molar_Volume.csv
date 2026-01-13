@@ -1,0 +1,11 @@
+Rank,Linear_Index,Pearson_r,RF_Index,RF_Importance,XGB_Index,XGB_Importance
+1,SO_en,0.9047,SO_mass,0.227,SO_ie,0.4193
+2,SO_mass,0.8996,SO_ie,0.1694,SO_en,0.3876
+3,SO3_en,0.8993,SO_en,0.1346,SO_radius,0.0651
+4,SO_radius,0.8985,SO_radius,0.1002,SO4_radius,0.0234
+5,SO_ie,0.898,SO3_en,0.0337,SO_mass,0.0213
+6,SO3_radius,0.8955,SO3_ie,0.0329,SO3_mass,0.0073
+7,SO3_mass,0.8943,SO3_mass,0.0292,ESO_mass,0.0067
+8,SO3_ie,0.8927,SO3_radius,0.029,SO5_mass,0.0064
+9,ESO_radius,0.8467,MESO_radius,0.0186,SO5_radius,0.0062
+10,ESO_en,0.8431,ESO_en,0.0171,SO3_ie,0.0059
